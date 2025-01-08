@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @luliatuccu
-## 🌱 I’m currently learning Python, R, SQL, and Tableau
-## 👀 I’m interested in data science and analytics
+- 👋 Hi, I’m @luliatuccu
+- 👀 I’m interested in data science and analytics
+- 🌱 I’m learning Python, R, and SQL
 
 <!--
 **luliatuccu/luliatuccu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
